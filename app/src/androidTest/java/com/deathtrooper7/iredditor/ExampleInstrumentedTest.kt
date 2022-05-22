@@ -1,4 +1,4 @@
-package com.wyv3rn.iredditor
+package com.deathtrooper7.iredditor
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.wyv3rn.iredditor", appContext.packageName)
+        assertEquals("com.deathtrooper7.iredditor", appContext.packageName)
     }
 }

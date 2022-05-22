@@ -1,8 +1,8 @@
-package com.wyv3rn.iredditor
+package com.deathtrooper7.iredditor
 
-import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.wyv3rn.iredditor.databinding.ActivityMainBinding
+import android.os.Bundle
+import com.deathtrooper7.iredditor.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

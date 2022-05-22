@@ -1,4 +1,4 @@
-package com.wyv3rn.iredditor
+package com.deathtrooper7.iredditor
 
 import org.junit.Test
 
